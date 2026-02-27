@@ -29,7 +29,7 @@ Focused on building real hardware systems using Arduino and ESP32.
 ### GPS Tracking System
 - ESP32-based GPS tracking device using L89 GPS module and LiPo battery.  
 - Sends real-time location data to ThingsBoard dashboard for route visualization.  
-= Implemented Kalman filtering to reduce coordinate noise and improve path stability.
+- Implemented Kalman filtering to reduce coordinate noise and improve path stability.
 
 
 ## 📜 My Goal
