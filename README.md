@@ -6,7 +6,7 @@ Focused on building real hardware systems using Arduino and ESP32.
 
 ## About Me
 - XII Graduate (2025)
-- Pursuing B.E.(Mechanical) in UIET, Panjab University, Chanidigarh Batch 2025-29
+- B.E. Mechanical Engineering, UIET Panjab University (2025–2029)
 - Intersted in Embedded System, Control System, Microcontrollers and IoT
 - I enjoy building physical systems more than just writing software
 
@@ -27,10 +27,9 @@ Focused on building real hardware systems using Arduino and ESP32.
 - Arduino-based password authentication system using 3 push buttons.  
   Implements input control logic, validation, and user feedback using buzzer/LED
 ### GPS Tracking System
-- A GPS tracked build using L89 GPS sensor, ESP32 and a LiPo Battery
-- Sends Data to Thinkboard dashboard which shows realtime Route Map
-- Uses Kalman filter to reduce noise
-### More Coming Soon...
+- ESP32-based GPS tracking device using L89 GPS module and LiPo battery.  
+- Sends real-time location data to ThingsBoard dashboard for route visualization.  
+= Implemented Kalman filtering to reduce coordinate noise and improve path stability.
 
 
 ## 📜 My Goal
