@@ -30,6 +30,7 @@ Focused on building real hardware systems using Arduino and ESP32.
 - A GPS tracked build using L89 GPS sensor, ESP32 and a LiPo Battery
 - Sends Data to Thinkboard dashboard which shows realtime Route Map
 - Uses Kalman filter to reduce noise
+### More Coming Soon...
 
 
 ## 📜 My Goal
